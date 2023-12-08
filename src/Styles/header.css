@@ -1,0 +1,9 @@
+.header-container {
+    background-color: #F8F9CF;
+  }
+  
+  .header-image {
+    width: 100rem; /* La largeur de l'image prendra 100% de la largeur du conteneur */
+    height: auto; /* La hauteur de l'image s'ajustera automatiquement pour maintenir les proportions */
+  }
+  
